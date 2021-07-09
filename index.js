@@ -37,7 +37,7 @@ const batch = [
     mystery4,
     mystery5,
 ];
-
+//my code
 const validateCred = (array) => {
     const newArray = [];
     for (let i = array.length - 2; i >= 0; i -= 2) {
